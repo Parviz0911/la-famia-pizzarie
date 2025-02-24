@@ -1,4 +1,2 @@
-soda 
-cofee 
-beer
+
 wine
